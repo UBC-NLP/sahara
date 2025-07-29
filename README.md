@@ -11,7 +11,6 @@
 [![Website](https://img.shields.io/badge/Website-Official-blue)](https://ubc-nlp.github.io/sahara/)
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face%20Dataset-Sahara_Benchmark-yellow)](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark)
 [![HuggingFace Leaderboard](https://img.shields.io/badge/🤗%20Hugging%20Face%20Space-Sahara_Leaderboards-yellow)](https://huggingface.co/spaces/UBC-NLP/sahara)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/UBC-NLP/sahara)
 
 </div>
 
