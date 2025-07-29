@@ -3,14 +3,16 @@
     <br>
     <img src="https://africa.dlnlp.ai/sahara/img/sahara_web_main.jpg" width="100%"/>
     <br>
+    
 <p>
-
+<div align="center">
 
 [![ACL Paper](https://img.shields.io/badge/ACL-2025-003693.svg)](https://aclanthology.org/2025.acl-long.1572/)
-[![HuggingFace Leaderboard](https://img.shields.io/badge/🤗%20Hugging%20Face%20Space-Sahara_Leaderboards-yellow)](https://huggingface.co/spaces/UBC-NLP/sahara)
 [![Website](https://img.shields.io/badge/Website-Official-blue)](https://ubc-nlp.github.io/sahara/)
-[![HuggingFace Benchmark](https://img.shields.io/badge/🤗%20Hugging%20Face%20Dataset-Sahara_Benchmark-yellow)](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/UBC-NLP/sahara)
+[![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-Sahara_Benchmark-yellow)](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark)
+[![HuggingFace Leaderboard](https://img.shields.io/badge/🤗%20Hugging%20Face-Sahara_Leaderboards-yellow)](https://huggingface.co/spaces/UBC-NLP/sahara)
+
+</div>
 
 Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper, "[Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)". Africa's rich linguistic heritage remains underrepresented in NLP, largely due to historical policies that favor foreign languages and create significant data inequities. In the paper, we integrate theoretical insights on Africa's language landscape with an empirical evaluation using Sahara. Sahara is curated from large-scale, publicly accessible datasets capturing the continent's linguistic diversity. By systematically assessing the performance of leading large language models (LLMs) on Sahara, we demonstrate how policy-induced data variations directly impact model effectiveness across African languages. Our findings reveal that while a few languages perform reasonably well, many Indigenous languages remain marginalized due to sparse data. Sahara supports an impressive 517 languages and varieties, across 16 tasks, making it the most extensive and representative benchmark for African NLP.
 
