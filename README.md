@@ -32,7 +32,7 @@ You can easily load and explore the SAHARA benchmark using the `datasets` librar
 
 ## Citation
 
-If you use the Sahara benchmark for your scientific publication, or if you find the resources in this website useful, please cite our paper as well as the papers of the [original authors](https://africa.dlnlp.ai/sahara/tasks).
+If you use the Sahara benchmark for your scientific publication, or if you find the resources in this website useful, please cite our paper.
 
 ```bibtex
 
