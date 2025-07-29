@@ -8,7 +8,7 @@
 <div align="center">
 
 [![ACL Paper](https://img.shields.io/badge/ACL-2025-003693.svg)](https://aclanthology.org/2025.acl-long.1572/)
-[![Website](https://img.shields.io/badge/Website-Official-blue)](https://ubc-nlp.github.io/sahara/)
+[![Website](https://img.shields.io/badge/Website-Official-blue)](https://africa.dlnlp.ai/sahara)
 [![HuggingFace Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face%20Dataset-Sahara_Benchmark-yellow)](https://huggingface.co/datasets/UBC-NLP/sahara_benchmark)
 [![HuggingFace Leaderboard](https://img.shields.io/badge/🤗%20Hugging%20Face%20Space-Sahara_Leaderboards-yellow)](https://huggingface.co/spaces/UBC-NLP/sahara)
 
