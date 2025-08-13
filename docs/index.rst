@@ -18,11 +18,11 @@ Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper,
 
  
 .. toctree::
-    :maxdepth: 1
-    :caption: Tasks
-    :caption: instructions
+   :maxdepth: 2
+   :caption: Contents:
 
-
+   tasks
+   instructions
 
 .. _citation:
 
