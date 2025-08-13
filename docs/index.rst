@@ -1,4 +1,4 @@
-AfroLID documentation
+Sahara Benchmark Documentation
 =======================
 .. raw:: html
 
@@ -19,20 +19,49 @@ Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper,
  
 .. toctree::
     :maxdepth: 1
-    :caption: Task
+    :caption: Tasks
 
-    mccr_tasks
-    text_classification_tasks
-    text_generation_tasks
-    tokens_level_tasks
+    tasks
+   
 
 
 .. toctree::
     :maxdepth: 1
     :caption: Evluation
 
-    instructions
+    submission_guidelies
     dataset_access
     evluateion_code
     submit_results
     user_profile
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Citation
+
+   citation
+
+
+.. _citation:
+
+========
+Citation
+========
+
+If you use the Sahara benchmark for your scientific publication, or if you find the resources in this website useful, please cite our paper.
+
+.. code-block:: bibtex
+
+    @inproceedings{adebara-etal-2025-evaluating,
+        title = "Where Are We? Evaluating {LLM} Performance on {A}frican Languages",
+        author = "Adebara, Ife  and      Toyin, Hawau Olamide  and      Ghebremichael, Nahom Tesfu  and      Elmadany, AbdelRahim A.  and      Abdul-Mageed, Muhammad",
+        editor = "Che, Wanxiang  and      Nabende, Joyce  and      Shutova, Ekaterina  and      Pilehvar, Mohammad Taher",
+        booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+        month = jul,
+        year = "2025",
+        address = "Vienna, Austria",
+        publisher = "Association for Computational Linguistics",
+        url = "https://aclanthology.org/2025.acl-long.1572/",
+        pages = "32704--32731",
+        ISBN = "979-8-89176-251-0",
+    }
