@@ -21,6 +21,8 @@ Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper,
 **Paper:** [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/) \
 **Leaderboards** [Sahara Leaderboards](https://huggingface.co/spaces/UBC-NLP/sahara)\
 **GITHUB:** [https://github.com/UBC-NLP/sahara](https://github.com/UBC-NLP/sahara)\
+**Documentations:** [https://sahara-benchmark.readthedocs.io/en/latest](https://sahara-benchmark.readthedocs.io/en/latest)\
+
 
 
 ## How to Use the Dataset
