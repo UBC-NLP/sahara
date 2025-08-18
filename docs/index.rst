@@ -12,7 +12,7 @@ Sahara Benchmark Documentation
 Sahara is a comprehensive benchmark for African NLP, part of our ACL 2025 paper, "[Where Are We? Evaluating LLM Performance on African Languages]()". Africa's rich linguistic heritage remains underrepresented in NLP, largely due to historical policies that favor foreign languages and create significant data inequities. In the paper, we integrate theoretical insights on Africa's language landscape with an empirical evaluation using Sahara. Sahara is curated from large-scale, publicly accessible datasets capturing the continent's linguistic diversity. By systematically assessing the performance of leading large language models (LLMs) on Sahara, we demonstrate how policy-induced data variations directly impact model effectiveness across African languages. Our findings reveal that while a few languages perform reasonably well, many Indigenous languages remain marginalized due to sparse data. Sahara supports an impressive 517 languages and varieties, across 16 tasks, making it the most extensive and representative benchmark for African NLP.
 
 :github: https://github.com/UBC-NLP/sahara
-:official websire: https://africa.dlnlp.ai/sahara/
+:official website: https://africa.dlnlp.ai/sahara/
 :leaderbaords: https://huggingface.co/spaces/UBC-NLP/sahara
 :paper: https://aclanthology.org/2025.acl-long.1572/
 
